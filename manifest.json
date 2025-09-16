@@ -1,10 +1,12 @@
 {
-  "name": "天麗周年慶清單",
+  "name": "天麗周年慶購買清單",
   "short_name": "天麗清單",
+  "description": "天麗2025周年慶訂單計算與贈品清單",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#4CAF50",
   "theme_color": "#4CAF50",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "images/icon-192.png",
